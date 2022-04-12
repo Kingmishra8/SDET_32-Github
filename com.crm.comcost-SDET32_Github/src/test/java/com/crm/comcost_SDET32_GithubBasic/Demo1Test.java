@@ -2,12 +2,12 @@ package com.crm.comcost_SDET32_GithubBasic;
 
 import org.testng.annotations.Test;
 
-public class Demo
+public class Demo1Test
 {
 	@Test
-	public void demoTest()
+	public void DemeoTest1()
 	{
-		System.out.println("Ist github program");
+		System.out.println("Pushing 2nd class");
 	}
 
 }
