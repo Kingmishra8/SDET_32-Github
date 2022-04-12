@@ -7,7 +7,8 @@ public class Demo1Test
 	@Test
 	public void DemeoTest1()
 	{
-		System.out.println("Pushing 2nd class");
+		System.out.println("Pushing 2nd time");
+		System.out.println("Pushing 3rd time");
 	}
 
 }
