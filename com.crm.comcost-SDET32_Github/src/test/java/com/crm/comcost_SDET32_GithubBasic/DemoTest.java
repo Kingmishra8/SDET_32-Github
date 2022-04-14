@@ -8,6 +8,7 @@ public class DemoTest
 	public void demoTest()
 	{
 		System.out.println("Ist github program");
+		System.out.println("pushing 2nd time to github");
 	}
 
 }

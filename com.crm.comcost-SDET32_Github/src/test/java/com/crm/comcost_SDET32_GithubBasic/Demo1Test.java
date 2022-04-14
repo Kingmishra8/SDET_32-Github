@@ -16,7 +16,7 @@ public class Demo1Test
 		System.out.println(URL);
 		driver.get(URL);
 		System.out.println("Pushing 2nd class");
-		System.out.println("Parameterrization");
+		System.out.println("Parameterrization test");
 	}
 
 }
